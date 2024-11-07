@@ -1,0 +1,6 @@
+/**/.DS_STORE
+/**/build
+.idea
+.vscode
+**/.cache
+**/compile_commands
